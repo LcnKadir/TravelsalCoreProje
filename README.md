@@ -1,1 +1,1 @@
-![](AdminDestination.png)
+![](TraversalCoreProje/AdminDestination.png)
