@@ -40,8 +40,8 @@ Merhabalar, hocam Murat Yücedağ' ın 100 derslik Traversal Rezervasyon serisin
 -Destinations-
 ![Destinations](https://github.com/LcnKadir/TravelsalCoreProje/assets/144541247/994d6190-3695-4118-aa90-f20939274894)
 
--DestinationsComments-
-![DestinationsComments](https://github.com/LcnKadir/TravelsalCoreProje/assets/144541247/72725f7e-311e-453e-956f-fb98f551b248)
+
+ -DestinationsComments-![DestinationsComments](https://github.com/LcnKadir/TravelsalCoreProje/assets/144541247/72725f7e-311e-453e-956f-fb98f551b248)
 
 -Destinations-Details-
 ![Destinations-Details](https://github.com/LcnKadir/TravelsalCoreProje/assets/144541247/51558c2f-1239-4d39-b41f-28cb31aed056)
