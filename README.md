@@ -4,7 +4,7 @@ Merhabalar, hocam Murat Yücedağ' ın 100 derslik Traversal Rezervasyon serisin
 
 
 ![MemberWaitingReservation](https://github.com/LcnKadir/TravelsalCoreProje/assets/144541247/c916267a-0fa1-4cbb-a750-f7f90314ef38)
-
+<img src="[http://url/to/img.png](https://github.com/LcnKadir/TravelsalCoreProje/assets/144541247/c916267a-0fa1-4cbb-a750-f7f90314ef38)" alt="alt text" width="320" height="180">
 -Travelsal-About-
 ![Travelsal-About](https://github.com/LcnKadir/TravelsalCoreProje/assets/144541247/3c21058a-c435-4c3e-a8e6-310ef7b7be1a)
 
