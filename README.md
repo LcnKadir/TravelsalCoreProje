@@ -8,7 +8,7 @@ Merhabalar, hocam Murat Yücedağ' ın 100 derslik Traversal Rezervasyon serisin
 -Travelsal-About-
 ![Travelsal-About](https://github.com/LcnKadir/TravelsalCoreProje/assets/144541247/3c21058a-c435-4c3e-a8e6-310ef7b7be1a)
 
--Travelsal-Contact-
+
 ![Travelsal-Contact](https://github.com/LcnKadir/TravelsalCoreProje/assets/144541247/c3cf76b4-656a-4217-ab9a-5c51f0740ec7)
 
 -Travelsal-Default2-
@@ -29,9 +29,10 @@ Merhabalar, hocam Murat Yücedağ' ın 100 derslik Traversal Rezervasyon serisin
 -Admin-Index-Guides-
 ![Admin-Index-Guides](https://github.com/LcnKadir/TravelsalCoreProje/assets/144541247/4e99647b-0305-40ec-b795-632d86850e7d)
 
--Adminpage2-
+-Adminpage-
 ![Adminpage](https://github.com/LcnKadir/TravelsalCoreProje/assets/144541247/9b57951f-a82d-4853-acb9-24d9517b2fce)
 
+-Adminpage2-
 ![Adminpage2](https://github.com/LcnKadir/TravelsalCoreProje/assets/144541247/08b988f9-7a76-4924-aa67-e92795eae061)
 
 -Adminpage4-
@@ -41,7 +42,7 @@ Merhabalar, hocam Murat Yücedağ' ın 100 derslik Traversal Rezervasyon serisin
 ![Destinations](https://github.com/LcnKadir/TravelsalCoreProje/assets/144541247/994d6190-3695-4118-aa90-f20939274894)
 
 
- -DestinationsComments-![DestinationsComments](https://github.com/LcnKadir/TravelsalCoreProje/assets/144541247/72725f7e-311e-453e-956f-fb98f551b248)
+![DestinationsComments](https://github.com/LcnKadir/TravelsalCoreProje/assets/144541247/72725f7e-311e-453e-956f-fb98f551b248)
 
 -Destinations-Details-
 ![Destinations-Details](https://github.com/LcnKadir/TravelsalCoreProje/assets/144541247/51558c2f-1239-4d39-b41f-28cb31aed056)
