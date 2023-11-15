@@ -1,0 +1,93 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\.editorconfig" Link=".editorconfig" />
+    <None Include="wwwroot\Lib\bootstrap\dist\css\bootstrap-grid.css.map" />
+    <None Include="wwwroot\Lib\bootstrap\dist\css\bootstrap-grid.min.css.map" />
+    <None Include="wwwroot\Lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map" />
+    <None Include="wwwroot\Lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map" />
+    <None Include="wwwroot\Lib\bootstrap\dist\css\bootstrap-reboot.css.map" />
+    <None Include="wwwroot\Lib\bootstrap\dist\css\bootstrap-reboot.min.css.map" />
+    <None Include="wwwroot\Lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map" />
+    <None Include="wwwroot\Lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map" />
+    <None Include="wwwroot\Lib\bootstrap\dist\css\bootstrap-utilities.css.map" />
+    <None Include="wwwroot\Lib\bootstrap\dist\css\bootstrap-utilities.min.css.map" />
+    <None Include="wwwroot\Lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map" />
+    <None Include="wwwroot\Lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map" />
+    <None Include="wwwroot\Lib\bootstrap\dist\css\bootstrap.css.map" />
+    <None Include="wwwroot\Lib\bootstrap\dist\css\bootstrap.min.css.map" />
+    <None Include="wwwroot\Lib\bootstrap\dist\css\bootstrap.rtl.css.map" />
+    <None Include="wwwroot\Lib\bootstrap\dist\css\bootstrap.rtl.min.css.map" />
+    <None Include="wwwroot\Lib\bootstrap\dist\js\bootstrap.bundle.js" />
+    <None Include="wwwroot\Lib\bootstrap\dist\js\bootstrap.bundle.js.map" />
+    <None Include="wwwroot\Lib\bootstrap\dist\js\bootstrap.bundle.min.js" />
+    <None Include="wwwroot\Lib\bootstrap\dist\js\bootstrap.bundle.min.js.map" />
+    <None Include="wwwroot\Lib\bootstrap\dist\js\bootstrap.esm.js" />
+    <None Include="wwwroot\Lib\bootstrap\dist\js\bootstrap.esm.js.map" />
+    <None Include="wwwroot\Lib\bootstrap\dist\js\bootstrap.esm.min.js" />
+    <None Include="wwwroot\Lib\bootstrap\dist\js\bootstrap.esm.min.js.map" />
+    <None Include="wwwroot\Lib\bootstrap\dist\js\bootstrap.js" />
+    <None Include="wwwroot\Lib\bootstrap\dist\js\bootstrap.js.map" />
+    <None Include="wwwroot\Lib\bootstrap\dist\js\bootstrap.min.js" />
+    <None Include="wwwroot\Lib\bootstrap\dist\js\bootstrap.min.js.map" />
+    <None Include="wwwroot\Lib\bootstrap\LICENSE" />
+    <None Include="wwwroot\Lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js" />
+    <None Include="wwwroot\Lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js" />
+    <None Include="wwwroot\Lib\jquery-validation\dist\additional-methods.js" />
+    <None Include="wwwroot\Lib\jquery-validation\dist\additional-methods.min.js" />
+    <None Include="wwwroot\Lib\jquery-validation\dist\jquery.validate.js" />
+    <None Include="wwwroot\Lib\jquery-validation\dist\jquery.validate.min.js" />
+    <None Include="wwwroot\Lib\jquery-validation\LICENSE.md" />
+    <None Include="wwwroot\Lib\jquery\dist\jquery.js" />
+    <None Include="wwwroot\Lib\jquery\dist\jquery.min.js" />
+    <None Include="wwwroot\Lib\jquery\dist\jquery.min.map" />
+    <None Include="wwwroot\sneat-1.0.0\.github\workflows\handle-new-issue-comment.yml" />
+    <None Include="wwwroot\sneat-1.0.0\.github\workflows\handle-new-issue.yml" />
+    <None Include="wwwroot\sneat-1.0.0\.github\workflows\issue-staler.yml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.0" />
+    <PackageReference Include="ClosedXML" Version="0.102.1" />
+    <PackageReference Include="EPPlus" Version="6.0.7" />
+    <PackageReference Include="FluentValidation" Version="10.3.6" />
+    <PackageReference Include="FluentValidation.AspNetCore" Version="10.3.6" />
+    <PackageReference Include="iTextSharp.LGPLv2.Core" Version="1.9.2" />
+    <PackageReference Include="MailKit" Version="3.4.1" />
+    <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="11.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity" Version="2.2.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="6.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="6.0.0">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="6.0.0">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.16" />
+    <PackageReference Include="Serilog.Extensions.Logging.File" Version="3.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BusinessLayer\BusinessLayer.csproj" />
+    <ProjectReference Include="..\DataAcessLayer\DataAcessLayer.csproj" />
+    <ProjectReference Include="..\EntitiyLayer\EntitiyLayer.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Areas\Admin\Data\" />
+    <Folder Include="Areas\Member\Data\" />
+    <Folder Include="wwwroot\pdfreports\" />
+    <Folder Include="wwwroot\userimages\" />
+  </ItemGroup>
+
+</Project>

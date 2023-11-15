@@ -1,0 +1,33 @@
+C:\Users\kadir\OneDrive\Masaüstü\YEDEKBEŞ\TraversalCoreProje\DTOLayer\bin\Debug\net6.0\DTOLayer.deps.json
+C:\Users\kadir\OneDrive\Masaüstü\YEDEKBEŞ\TraversalCoreProje\DTOLayer\bin\Debug\net6.0\DTOLayer.dll
+C:\Users\kadir\OneDrive\Masaüstü\YEDEKBEŞ\TraversalCoreProje\DTOLayer\bin\Debug\net6.0\DTOLayer.pdb
+C:\Users\kadir\OneDrive\Masaüstü\YEDEKBEŞ\TraversalCoreProje\DTOLayer\obj\Debug\net6.0\DTOLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kadir\OneDrive\Masaüstü\YEDEKBEŞ\TraversalCoreProje\DTOLayer\obj\Debug\net6.0\DTOLayer.AssemblyInfoInputs.cache
+C:\Users\kadir\OneDrive\Masaüstü\YEDEKBEŞ\TraversalCoreProje\DTOLayer\obj\Debug\net6.0\DTOLayer.AssemblyInfo.cs
+C:\Users\kadir\OneDrive\Masaüstü\YEDEKBEŞ\TraversalCoreProje\DTOLayer\obj\Debug\net6.0\DTOLayer.csproj.CoreCompileInputs.cache
+C:\Users\kadir\OneDrive\Masaüstü\YEDEKBEŞ\TraversalCoreProje\DTOLayer\obj\Debug\net6.0\DTOLayer.dll
+C:\Users\kadir\OneDrive\Masaüstü\YEDEKBEŞ\TraversalCoreProje\DTOLayer\obj\Debug\net6.0\refint\DTOLayer.dll
+C:\Users\kadir\OneDrive\Masaüstü\YEDEKBEŞ\TraversalCoreProje\DTOLayer\obj\Debug\net6.0\DTOLayer.pdb
+C:\Users\kadir\OneDrive\Masaüstü\YEDEKBEŞ\TraversalCoreProje\DTOLayer\obj\Debug\net6.0\ref\DTOLayer.dll
+C:\Users\kadir\OneDrive\Masaüstü\TEMİZSAYFA\TraversalCoreProje\DTOLayer\bin\Debug\net6.0\DTOLayer.deps.json
+C:\Users\kadir\OneDrive\Masaüstü\TEMİZSAYFA\TraversalCoreProje\DTOLayer\bin\Debug\net6.0\DTOLayer.dll
+C:\Users\kadir\OneDrive\Masaüstü\TEMİZSAYFA\TraversalCoreProje\DTOLayer\bin\Debug\net6.0\DTOLayer.pdb
+C:\Users\kadir\OneDrive\Masaüstü\TEMİZSAYFA\TraversalCoreProje\DTOLayer\obj\Debug\net6.0\DTOLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kadir\OneDrive\Masaüstü\TEMİZSAYFA\TraversalCoreProje\DTOLayer\obj\Debug\net6.0\DTOLayer.AssemblyInfoInputs.cache
+C:\Users\kadir\OneDrive\Masaüstü\TEMİZSAYFA\TraversalCoreProje\DTOLayer\obj\Debug\net6.0\DTOLayer.AssemblyInfo.cs
+C:\Users\kadir\OneDrive\Masaüstü\TEMİZSAYFA\TraversalCoreProje\DTOLayer\obj\Debug\net6.0\DTOLayer.csproj.CoreCompileInputs.cache
+C:\Users\kadir\OneDrive\Masaüstü\TEMİZSAYFA\TraversalCoreProje\DTOLayer\obj\Debug\net6.0\DTOLayer.dll
+C:\Users\kadir\OneDrive\Masaüstü\TEMİZSAYFA\TraversalCoreProje\DTOLayer\obj\Debug\net6.0\refint\DTOLayer.dll
+C:\Users\kadir\OneDrive\Masaüstü\TEMİZSAYFA\TraversalCoreProje\DTOLayer\obj\Debug\net6.0\DTOLayer.pdb
+C:\Users\kadir\OneDrive\Masaüstü\TEMİZSAYFA\TraversalCoreProje\DTOLayer\obj\Debug\net6.0\ref\DTOLayer.dll
+C:\Users\kadir\OneDrive\Masaüstü\TEMİZSAYFA YEDEK\TraversalCoreProje\DTOLayer\bin\Debug\net6.0\DTOLayer.deps.json
+C:\Users\kadir\OneDrive\Masaüstü\TEMİZSAYFA YEDEK\TraversalCoreProje\DTOLayer\bin\Debug\net6.0\DTOLayer.dll
+C:\Users\kadir\OneDrive\Masaüstü\TEMİZSAYFA YEDEK\TraversalCoreProje\DTOLayer\bin\Debug\net6.0\DTOLayer.pdb
+C:\Users\kadir\OneDrive\Masaüstü\TEMİZSAYFA YEDEK\TraversalCoreProje\DTOLayer\obj\Debug\net6.0\DTOLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kadir\OneDrive\Masaüstü\TEMİZSAYFA YEDEK\TraversalCoreProje\DTOLayer\obj\Debug\net6.0\DTOLayer.AssemblyInfoInputs.cache
+C:\Users\kadir\OneDrive\Masaüstü\TEMİZSAYFA YEDEK\TraversalCoreProje\DTOLayer\obj\Debug\net6.0\DTOLayer.AssemblyInfo.cs
+C:\Users\kadir\OneDrive\Masaüstü\TEMİZSAYFA YEDEK\TraversalCoreProje\DTOLayer\obj\Debug\net6.0\DTOLayer.csproj.CoreCompileInputs.cache
+C:\Users\kadir\OneDrive\Masaüstü\TEMİZSAYFA YEDEK\TraversalCoreProje\DTOLayer\obj\Debug\net6.0\DTOLayer.dll
+C:\Users\kadir\OneDrive\Masaüstü\TEMİZSAYFA YEDEK\TraversalCoreProje\DTOLayer\obj\Debug\net6.0\refint\DTOLayer.dll
+C:\Users\kadir\OneDrive\Masaüstü\TEMİZSAYFA YEDEK\TraversalCoreProje\DTOLayer\obj\Debug\net6.0\DTOLayer.pdb
+C:\Users\kadir\OneDrive\Masaüstü\TEMİZSAYFA YEDEK\TraversalCoreProje\DTOLayer\obj\Debug\net6.0\ref\DTOLayer.dll
