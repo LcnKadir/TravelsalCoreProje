@@ -6,6 +6,7 @@ Travelsal
 ![](TraversalCoreProje/Travelsal-Default2.png)
 ![](TraversalCoreProje/Travelsal-About.png)
 ![](TraversalCoreProje/Destinations.png)
+![](TraversalCoreProje/DestinationsComments.png)
 
 Admin Pages
 ![](TraversalCoreProje/AdminDestination.png)
